@@ -10,7 +10,7 @@ export const Card1 = () => {
           alt=""
         />
         <div className="p-2 flex flex-col">
-          <h1 className="text-white text-2xl font-bold text-center mt-2">Nolger Rodriguez</h1>
+          <h1 className="text-white text-2xl font-bold text-center mt-2">Nolger R.</h1>
           <span className="text-gray-500 text-sm text-center font-light my-1">23 años - 29/06/1999</span>
           <p className="text-gray-300 text-xl text-center mt-10">Web Development</p>
         </div>
