@@ -8,4 +8,5 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  ...require('./src/CustomTailCss/custom-width.cjs'),
 }

@@ -1,3 +1,4 @@
+import Banner1 from "./Banner/Banner1"
 import { Card1 } from "./Cards/Card1"
 import Card2 from "./Cards/Card2"
 import Card3 from "./Cards/Card3"
@@ -10,6 +11,7 @@ const App = () => {
       <Card2 />
       <Card3 />
       <Card4 />
+      <Banner1 />
     </div>
   )
 }
