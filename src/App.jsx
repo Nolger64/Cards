@@ -6,8 +6,12 @@ import Card4 from "./Cards/Card4"
 
 const App = () => {
   return (
-    <div>
+    <div className="flex justify-center items-center flex-col">
       <Banner1 />
+      <Card1 />
+      <Card2 />
+      <Card3 />
+      <Card4 />
     </div>
   )
 }
