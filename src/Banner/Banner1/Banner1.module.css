@@ -1,6 +1,8 @@
 .containerBanner1{
     margin: 2rem;
-    width: 44rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
     height: 20rem;
     padding: 0.5rem;
     background-color: #FFFBEB;
@@ -13,6 +15,10 @@
     align-items: center;
     flex-wrap: nowrap;
     overflow-x: scroll;
+    border-radius: 0.5rem;
+}
+.displayBanner1::-webkit-scrollbar{
+    
 }
 .containerUsers{
  width: 10rem;
